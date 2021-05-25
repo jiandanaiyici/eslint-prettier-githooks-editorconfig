@@ -1,0 +1,1 @@
+# eslint-prettier-githooks-editorconfig
