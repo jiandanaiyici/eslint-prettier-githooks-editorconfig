@@ -1,0 +1,3 @@
+node_modules/
+# 忽略 build 文件夹除 index.js 之外
+!build/index.js
