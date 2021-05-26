@@ -1,0 +1,15 @@
+*.html
+yarn.lock
+.npmrc
+.gitignore
+.npmignore
+.prettierignore
+.DS_Store
+.editorconfig
+.eslintignore
+.history
+CNAME
+
+node_modules/
+
+*.log
